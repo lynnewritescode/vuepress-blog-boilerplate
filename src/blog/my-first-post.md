@@ -1,15 +1,25 @@
 ---
-title: My First Post
-date: 2018-12-23 20:47:18
+title: Hello world!
+date: 2019-02-21 21:48:00
 excerpt: Here is a little bit about my post.
 type: post
 blog: true
 tags:
-    - HTML
-    - CSS
-    - JavaScript
+  - HTML
+  - CSS
+  - JavaScript
+  - VueJs
+  - blog
 ---
 
-## Hello Dr. Zoidberg
+## Hello World!
 
-Dr. Zoidberg, that doesn't make sense. But, okay! No! The kind with looting and maybe starting a few fires! Well, then good news! It's a suppository. Hey, guess what you're accessories to. Hey, guess what you're accessories to.
+Just back from the Vue.js Amsterdam conference. Lots to process.
+
+Things that I've been working on:
+
+- Stoic quotes Nuxt.js app
+- Setting up a VuePress blog
+- Being more engaged in the dev community
+- Joined Vue Vixens
+- Looking into organising a local Vue meetup in the Glasgow, Scotland area
