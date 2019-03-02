@@ -80,7 +80,7 @@ export default {
 }
 
 p {
-  margin: 0 0 10px;
+  margin: 0 0 25px;
 }
 
 .read-more {
