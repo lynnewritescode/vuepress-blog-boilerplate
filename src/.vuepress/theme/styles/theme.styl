@@ -75,6 +75,14 @@ body
   img
     max-width 100%
 
+  .footer-section 
+    margin-top 20px
+    padding-top 20px
+    border-top 1px solid #ddd
+
+    p 
+      margin 0
+
 a
   font-weight 500
   color $accentColor
@@ -195,4 +203,9 @@ th, td
   .content:not(.custom)
     padding-top 5rem
 
+  .content.custom
+    .footer-section 
+      margin-top 40px
+      padding-top 40px
+      
 @require './mobile.styl'
