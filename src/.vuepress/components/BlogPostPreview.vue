@@ -71,6 +71,7 @@ export default {
 }
 
 .blog-post__title a:hover {
+  color: #7e00de;
   text-decoration: none !important;
 }
 
